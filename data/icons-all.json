@@ -6521,6 +6521,22 @@
     {
       "name": "顶级机场",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/DingJiJiChang.png"
+    },
+    {
+      "name": "CloudCone_02",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/CloudCone_02.png"
+    },
+    {
+      "name": "VMISS_02",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/VMISS_02.png"
+    },
+    {
+      "name": "Oracle_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Oracle_03.png"
+    },
+    {
+      "name": "Surge_02",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Surge_02.png"
     }
   ]
 }

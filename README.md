@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,630 项）
+- `data/icons-all.json`：图标目录（1,634 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -46,3 +46,12 @@
 - `YouTube_08`：基于 `YouTube_07`，缩放至 118%。
 - `steam_03`：基于 `steam_02`，缩放至 92%。
 - `github_20`：基于 `github_19`，缩放至 110%。
+
+## 节点图标协调版本
+
+- `CloudCone_02`：保留原绿色底板与白色标志，整体缩小至约 92%，增加透明留白。
+- `VMISS_02`：保留原白色标志，以原蓝色填充圆角方形底板，增加标志内边距，整体缩小至约 92%。
+- `Oracle_03`：基于 `Oracle_01` 红环，缩小至 85% 并放置于白色圆角底板，底板整体缩小至约 92%。
+- `Surge_02`：基于 `Surge`，波形图案放大约 25%，保持白色圆角底板。
+
+这四张均为 144×144 PNG，旧版名称与文件保留。
