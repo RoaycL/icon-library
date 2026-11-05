@@ -6569,6 +6569,26 @@
     {
       "name": "Apple_Home_04",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_Home_04.png"
+    },
+    {
+      "name": "YouTube_10",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/YouTube_10.png"
+    },
+    {
+      "name": "Telegram_09",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Telegram_09.png"
+    },
+    {
+      "name": "CloudCone_04",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/CloudCone_04.png"
+    },
+    {
+      "name": "VMISS_04",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/VMISS_04.png"
+    },
+    {
+      "name": "Claude_06",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_06.png"
     }
   ]
 }
