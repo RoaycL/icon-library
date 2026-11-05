@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,651 项）
+- `data/icons-all.json`：图标目录（1,652 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -103,3 +103,8 @@
 - `VMISS_05`：来源于 [VMISS 官网使用的 SVG](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg)，保留左侧图案原始路径、两种紫色（`#8e96f7`、`#727cf5`）及宽高比例，不包含右侧 VMISS 字样。
 - 等比例渲染并居中到 144×144 透明画布，内部不镂空，也不添加底板。横向图案的高度小于宽度，未拉伸为方形。
 - 旧版蓝白图案和自行处理的镂空版本继续保留。
+
+## GitHub 纯黑白透明底版本
+
+- `github_21`：基于 [GitHub 官方 Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)，使用纯黑圆形与白色 Octocat，去除灰色渐变、立体阴影和外部白色底板。
+- 外部透明区域透出卡片颜色，白天浅色、夜间深色；内部黑白图案固定，不会随主题反转。保持 144×144 画布，旧版保留。
