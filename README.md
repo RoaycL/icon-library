@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,619 项）
+- `data/icons-all.json`：图标目录（1,622 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -29,3 +29,7 @@
 - `Apple_Home_02`：[Apple 家庭 iOS](https://apps.apple.com/us/app/id1110145103)
 
 新增图标均为 144×144 PNG，沿用相同的透明圆角蒙版。标志归相应权利人所有。
+
+- `github_19`：[GitHub 官方 iOS](https://apps.apple.com/us/app/github/id1477376905)，在现有 `github_18` 基础上递增。
+- `steam_02`：[Steam Mobile 官方 iOS](https://apps.apple.com/us/app/steam-mobile/id495369748)，接续现有 `steam`、`steam(1)` 版本。
+- `X_02`：[X 官方 iOS](https://apps.apple.com/us/app/x/id333903271)，在现有 `X` 基础上递增；与经典 Twitter 蓝鸟图标分别保留。
