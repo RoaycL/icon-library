@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,622 项）
+- `data/icons-all.json`：图标目录（1,630 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -33,3 +33,16 @@
 - `github_19`：[GitHub 官方 iOS](https://apps.apple.com/us/app/github/id1477376905)，在现有 `github_18` 基础上递增。
 - `steam_02`：[Steam Mobile 官方 iOS](https://apps.apple.com/us/app/steam-mobile/id495369748)，接续现有 `steam`、`steam(1)` 版本。
 - `X_02`：[X 官方 iOS](https://apps.apple.com/us/app/x/id333903271)，在现有 `X` 基础上递增；与经典 Twitter 蓝鸟图标分别保留。
+
+## 视觉协调版本
+
+保留官方图案及配色，分别调整留白与主体占比；较小的白底图案放大，Claude、X、Steam 整体收小至 92%，统一在 144×144 透明画布中。旧版均保留。
+
+- `Apple_Home_03`：基于 `Apple_Home_02`，缩放至 120%。
+- `Telegram_08`：基于 `Telegram_07`，缩放至 112%。
+- `Claude_05`：基于 `Claude_03`，缩放至 92%。
+- `X_03`：基于 `X_02`，缩放至 92%。
+- `Google_05`：基于 `Google_04`，缩放至 114%。
+- `YouTube_08`：基于 `YouTube_07`，缩放至 118%。
+- `steam_03`：基于 `steam_02`，缩放至 92%。
+- `github_20`：基于 `github_19`，缩放至 110%。

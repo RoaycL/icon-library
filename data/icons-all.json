@@ -287,6 +287,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_Home_02.png"
     },
     {
+      "name": "Apple_Home_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_Home_03.png"
+    },
+    {
       "name": "Apple_iCloud",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_iCloud.png"
     },
@@ -705,6 +709,10 @@
     {
       "name": "Claude_04",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_04.png"
+    },
+    {
+      "name": "Claude_05",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_05.png"
     },
     {
       "name": "Cloudflare",
@@ -1195,6 +1203,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/github_19.png"
     },
     {
+      "name": "github_20",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/github_20.png"
+    },
+    {
       "name": "GlaDos",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/GlaDos.png"
     },
@@ -1217,6 +1229,10 @@
     {
       "name": "Google_04",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Google_04.png"
+    },
+    {
+      "name": "Google_05",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Google_05.png"
     },
     {
       "name": "GoogleBard",
@@ -2431,6 +2447,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/steam_02.png"
     },
     {
+      "name": "steam_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/steam_03.png"
+    },
+    {
       "name": "StoneHenge",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/StoneHenge.png"
     },
@@ -2517,6 +2537,10 @@
     {
       "name": "Telegram_07",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Telegram_07.png"
+    },
+    {
+      "name": "Telegram_08",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Telegram_08.png"
     },
     {
       "name": "Temby",
@@ -2971,6 +2995,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/X_02.png"
     },
     {
+      "name": "X_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/X_03.png"
+    },
+    {
       "name": "xbox",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/xbox.png"
     },
@@ -3085,6 +3113,10 @@
     {
       "name": "YouTube_07",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/YouTube_07.png"
+    },
+    {
+      "name": "YouTube_08",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/YouTube_08.png"
     },
     {
       "name": "YouTubeMusic",
