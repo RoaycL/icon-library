@@ -283,6 +283,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_Home.png"
     },
     {
+      "name": "Apple_Home_02",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_Home_02.png"
+    },
+    {
       "name": "Apple_iCloud",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Apple_iCloud.png"
     },
@@ -691,16 +695,16 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_01.png"
     },
     {
-      "name": "Claude_01+1",
-      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_01+1.png"
-    },
-    {
       "name": "Claude_02",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_02.png"
     },
     {
-      "name": "Claude_02+1",
-      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_02+1.png"
+      "name": "Claude_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_03.png"
+    },
+    {
+      "name": "Claude_04",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Claude_04.png"
     },
     {
       "name": "Cloudflare",
@@ -1205,6 +1209,10 @@
     {
       "name": "Google",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Google.png"
+    },
+    {
+      "name": "Google_04",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Google_04.png"
     },
     {
       "name": "GoogleBard",
@@ -2499,6 +2507,10 @@
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Telegram_06.png"
     },
     {
+      "name": "Telegram_07",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Telegram_07.png"
+    },
+    {
       "name": "Temby",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Temby.png"
     },
@@ -2645,6 +2657,10 @@
     {
       "name": "Twitter_04",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Twitter_04.png"
+    },
+    {
+      "name": "Twitter_05",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Twitter_05.png"
     },
     {
       "name": "Udn",
@@ -3053,6 +3069,10 @@
     {
       "name": "YouTube_06",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/YouTube_06.png"
+    },
+    {
+      "name": "YouTube_07",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/YouTube_07.png"
     },
     {
       "name": "YouTubeMusic",
