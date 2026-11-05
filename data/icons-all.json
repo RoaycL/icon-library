@@ -6537,6 +6537,18 @@
     {
       "name": "Surge_02",
       "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Surge_02.png"
+    },
+    {
+      "name": "CloudCone_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/CloudCone_03.png"
+    },
+    {
+      "name": "VMISS_03",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/personal/VMISS_03.png"
+    },
+    {
+      "name": "Oracle_04",
+      "url": "https://raw.githubusercontent.com/RoaycL/icon-library/main/icons/apps/Oracle_04.png"
     }
   ]
 }
