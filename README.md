@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,650 项）
+- `data/icons-all.json`：图标目录（1,651 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -97,3 +97,9 @@
 - `CloudCone_05`：直接使用 [CloudCone 官方品牌资源页](https://cloudcone.com/logos/)中 Rounded Square Icon 的原始下载文件（500×500 PNG），保留原灰色圆环、绿色斜带及灰色阴影。仅去除白色底板与空白间隙、等比例缩放并居中到 144×144 透明画布；不再使用白色简化标志或将主体镂空。
 - 原始下载入口：`https://clco.cc/vvffY`（由官方品牌页提供）。
 - `CloudCone`、`CloudCone_02`、`CloudCone_03`、`CloudCone_04` 继续保留，便于已有订阅使用。
+
+## VMISS 官方矢量标志版本
+
+- `VMISS_05`：来源于 [VMISS 官网使用的 SVG](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg)，保留左侧图案原始路径、两种紫色（`#8e96f7`、`#727cf5`）及宽高比例，不包含右侧 VMISS 字样。
+- 等比例渲染并居中到 144×144 透明画布，内部不镂空，也不添加底板。横向图案的高度小于宽度，未拉伸为方形。
+- 旧版蓝白图案和自行处理的镂空版本继续保留。
