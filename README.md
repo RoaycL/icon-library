@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,649 项）
+- `data/icons-all.json`：图标目录（1,650 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -91,3 +91,9 @@
 - `Skylumo_02`：移除原白色底板和灰色外边缘，保留原蓝紫渐变文字、云和圆弧，图案内部空白亦透明。
 
 两张均为 144×144 PNG，透明区域透出 Surge 卡片背景，旧版文件与名称均保留。
+
+## CloudCone 官方标志版本
+
+- `CloudCone_05`：直接使用 [CloudCone 官方品牌资源页](https://cloudcone.com/logos/)中 Rounded Square Icon 的原始下载文件（500×500 PNG），保留原灰色圆环、绿色斜带及灰色阴影。仅去除白色底板与空白间隙、等比例缩放并居中到 144×144 透明画布；不再使用白色简化标志或将主体镂空。
+- 原始下载入口：`https://clco.cc/vvffY`（由官方品牌页提供）。
+- `CloudCone`、`CloudCone_02`、`CloudCone_03`、`CloudCone_04` 继续保留，便于已有订阅使用。
