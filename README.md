@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,652 项）
+- `data/icons-all.json`：图标目录（1,653 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -108,3 +108,8 @@
 
 - `github_21`：基于 [GitHub 官方 Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)，使用纯黑圆形与白色 Octocat，去除灰色渐变、立体阴影和外部白色底板。
 - 外部透明区域透出卡片颜色，白天浅色、夜间深色；内部黑白图案固定，不会随主题反转。保持 144×144 画布，旧版保留。
+
+## TikTok 透明镂空版本
+
+- `TikTok_11`：以 [TikTok 官方开发者资源包](https://developers.tiktok.com/docs/en/getting-started-design-guidelines)中的 `TikTok_Icon_Black_Square.png` 为来源，保留原始红青双色形状及比例，移除黑色底板，并将中央白色主体处理为透明。
+- 144×144 PNG，图案等比例居中，外部及镂空区域直接透出客户端卡片的深浅背景；这不是官方深色图标，也不包含主题检测或自动反色逻辑。旧版 `01` 至 `10` 保留。
