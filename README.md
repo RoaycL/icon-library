@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-- `data/icons-all.json`：图标目录（1,653 项）
+- `data/icons-all.json`：图标目录（1,654 项）
 - `icons/`：镜像图标文件；JSON 中的全部图标均托管于本仓库
 - `icons/personal/`：个人自用图标（CloudCone、VMISS、DigitalOcean、PaopaoDog、Skylumo、顶级机场）
 
@@ -113,3 +113,9 @@
 
 - `TikTok_11`：以 [TikTok 官方开发者资源包](https://developers.tiktok.com/docs/en/getting-started-design-guidelines)中的 `TikTok_Icon_Black_Square.png` 为来源，保留原始红青双色形状及比例，移除黑色底板，并将中央白色主体处理为透明。
 - 144×144 PNG，图案等比例居中，外部及镂空区域直接透出客户端卡片的深浅背景；这不是官方深色图标，也不包含主题检测或自动反色逻辑。旧版 `01` 至 `10` 保留。
+
+## TikTok 官方原色版本
+
+- `TikTok_12`：直接使用 TikTok 官方开发者资源包中的 `TikTok_Icon_Black_Square.png`，仅等比例缩小至 144×144，保留原黑色底板、红青白标志及原有留白。
+- 整张图像不透明，不去除白色主体，不进行镂空处理，也不根据客户端背景变化颜色。
+- `TikTok_11` 透明试用版本及其他旧版继续保留；使用官方样式请选择 `TikTok_12`。
